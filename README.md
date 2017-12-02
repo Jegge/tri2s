@@ -1,4 +1,6 @@
 
+For the hardware, have a look at http://mignonette-game.com/
+
 Tri2s Readme
 ============
 
@@ -24,14 +26,6 @@ A) After tri2s got transferred onto your mignonette, you're like to hear the mus
    If you need a break, press the B-button; this will pause the game until any key got pressed.
    When the game is over a skull image will be shown. Press any key to return to the startup screen.
 
-Q) Why did you do it?
-A) The short answer is "because I could". The longer one would be "I've never programmed a microcontroller before
-   and the mignonette gave me the opportunity do do so. So I just wanted to see, if I could". The short answer
-   derives from that ...
-
-Q) What about my cat?
-A) Do not try to compile it. I's likely to get hurt, or may defend itself and hurt you instead.
-
 Q) May I copy and share this game?
 A) Sure. It's licensed and released under the Creative Commons CC-by-nc-sa license.
 
@@ -40,8 +34,3 @@ A) The game itself - yes. But I was building upon the work of others, namely Rol
    some sample code from munch and who helped me fixing some obscure error*, that I got rid more by chance than by 
    knowledge) and Mitch (who also contributed to the library and munch and who encouraged me soldering the mignonette
    on the 26C3 workshop in berlin by giving me a "solder sticker").
-
-*  I have worked as a software developer for quite some time now and I've seen some really strange bugs in that time,
-   but the error was even obscure by these standards. I compiled - no problem, program works. Rolf compiled - stones
-   randomly stopped falling.
-
